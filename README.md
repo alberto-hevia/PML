@@ -1,5 +1,5 @@
 # PML
-Practical Machine Learing Project
+Practical Machine Learning Project
 
 This folder contains the documents related to the Paractical Machine Learning Course.
 
