@@ -5,10 +5,9 @@ This folder contains the documents related to the Paractical Machine Learning Co
 
 You can find:
 
-1. Training dataset.
-2. Testing dataset.
-3. Rmd document.
-4. html file.
+1. Rmd document.
+2. Md document.
+2. html file.
 
 You can also find the document published in RPubs: <http://rpubs.com/ahevia/PML>
 
